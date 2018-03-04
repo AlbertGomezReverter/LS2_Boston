@@ -1,9 +1,9 @@
 # LS2-Boston
 
-#Working with:
-  -Spring for backend
-  -JPA for persistence
-  -Redux and React for frontend
+# Working with:
+  - Spring for backend
+  - JPA for persistence
+  - Redux and React for frontend
 
 # Rules for creating directories
 
@@ -14,10 +14,10 @@
   - repositories
   - test
 
-#Authors
-  -Santi Herranz
-  -Xavier Serra
-  -Eloi Rodríguez
-  -Alex Haro
-  -Alex Balló
-  -Albert Gómez
+# Authors
+  - Santi Herranz
+  - Xavier Serra
+  - Eloi Rodríguez
+  - Alex Haro
+  - Alex Balló
+  - Albert Gómez
